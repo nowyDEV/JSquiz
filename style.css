@@ -1,0 +1,12 @@
+#wrapper {
+    width: 960px;
+    height: 600px;
+    background: #323232;
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+}
+
+input[type="radio"] {
+    margin-right: 20px;
+}
